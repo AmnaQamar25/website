@@ -1,0 +1,39 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+header {
+    background-color: white;
+    box-shadow:0 2px 5px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    font-size: xx-large;
+    height: 180px;
+}
+h1 {
+    position: absolute;
+    left: 400px;
+}
+p{
+    font-size: xx-large;
+}
+li{
+    margin-top: 40px;
+    font-size: large;
+}
+section{
+    background-color: white;
+    box-shadow:0 2px 5px rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
+    padding-left: 20px;
+}
+#sec{
+    height: 320px;
+}
+#return{
+    height: 60px;
+}
+a{
+    color: black;
+    text-decoration: none;
+    font-size: large;
+    text-align: center;
+}
